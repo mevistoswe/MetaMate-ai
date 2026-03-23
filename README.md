@@ -93,7 +93,7 @@ Leave empty to include all document types.
 Install via NuGet:
 
 ```bash
-dotnet add package MetaMate
+dotnet add package MetaMateAi
 ```
 
 Then restart the site and open the **MetaMate AI** section in the Umbraco backoffice.
