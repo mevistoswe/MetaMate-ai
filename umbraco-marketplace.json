@@ -1,0 +1,11 @@
+{
+  "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
+  "Title": "MetaMate AI",
+  "Description": "AI-powered meta title and meta description generation for Umbraco 17. Find missing meta, generate for single pages, and bulk-generate from actual page content.",
+  "Categories": [ "Developer Tools", "SEO & Marketing" ],
+  "PackageType": "Package",
+  "LicenseTypes": [ "Free" ],
+  "DocumentationUrl": "https://github.com/mevistoswe/MetaMate-ai#readme",
+  "IssueTrackerUrl": "https://github.com/mevistoswe/MetaMate-ai/issues",
+  "Tags": [ "seo", "meta", "ai", "openai", "backoffice", "umbraco17" ],
+}
